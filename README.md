@@ -42,7 +42,6 @@
 ![EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=AWS&logoColor=FFA518)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
