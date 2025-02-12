@@ -11,7 +11,7 @@
 
 - 🏙 Apasionado por la programación, el desarrollo de software y la tecnología en general.
 
-- 📫 Puedes contactarme en **reyesvarguezli@gmail.com**
+- 📫 Puedes contactarme en **lireyesw@gmail.com**
 
 - 💻 Habilidades: Resolución de problemas, desarrollo en **JavaScript**, **TypeScript**, **Vue.js**, **Laravel**, **MongoDB**, y **Flutter**.
 
